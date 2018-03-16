@@ -1,4 +1,4 @@
-version 2.0.0
+version 3.0.1
 
 a test extenson of yii2
 =======================
