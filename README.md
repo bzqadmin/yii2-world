@@ -1,3 +1,5 @@
+version 2.0.0
+
 a test extenson of yii2
 =======================
 Description:a test extenson of yii2
