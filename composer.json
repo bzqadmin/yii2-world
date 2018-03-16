@@ -1,0 +1,21 @@
+{
+    "name": "bzqadmin/yii2-world",
+    "description": "Description:a test extenson of yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adam",
+            "email": "admin@meeyee.net"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bzqadmin\\yii2\\": ""
+        }
+    }
+}
